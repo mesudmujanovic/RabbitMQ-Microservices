@@ -1,0 +1,5 @@
+rabbitmq-plugins.bat list
+proveri listu plugina
+
+rabbitmq-plugins.bat enable rabbitmq_management
+omogucavanje servera rabbitmq
